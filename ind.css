@@ -1,0 +1,71 @@
+#circle{
+     background-image: url(Naruto\ &\ Arrow\ Animated--pointer--SweezyCursors.png);
+     background-size: contain;
+     background-position: center;
+     background-repeat:no-repeat;
+    height: 80px;
+    width: 80px;
+    position:absolute;
+    animation: gloe 1.5s infinite ;
+    /* transition: all 0.1s ease; */
+    
+    
+}
+body{
+    background-color: rgb(18, 18, 18);
+    
+}
+/* @keyframes gloe{
+    0%
+    {
+        box-shadow: 0 0 20px 10px rgba(255, 166, 0, 0.512);
+        transform: scale(1);
+        
+    }
+    50%{
+        box-shadow: 0 0 40px 25px rgba(255, 166, 0, 0.39);
+        transform: scale(1.1);
+    }
+    
+} */
+@keyframes gloe {
+  50% {
+    transform: translate3d(0px, 10px, 0px);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
